@@ -95,10 +95,10 @@ import xml.etree.cElementTree as ET
 
 
 ### Fill these in ###
-jss_url = ""
-jss_username = ""
-jss_password = ""
-jds_dns_address = "" #<-This must be reachable by clients
+jss_url = "jss.mediamath.com"
+jss_username = "it@mediamath.com"
+jss_password = "!5upermaN"
+jds_dns_address = "jds.mediamath.com" #<-This must be reachable by clients
 
 ### If left blank, these will be randomized...
 readUserPasswd = ""
